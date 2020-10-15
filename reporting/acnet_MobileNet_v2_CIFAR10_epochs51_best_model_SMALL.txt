@@ -1,0 +1,100 @@
+Epoch: 1  Best acc: tensor(45.6700, device='cuda:1') Test acc: tensor(45.6700, device='cuda:1')
+Training time: 126.34550476074219 Hour: 0 Minute: 2 Second: 6
+Epoch: 2  Best acc: tensor(59.2100, device='cuda:1') Test acc: tensor(59.2100, device='cuda:1')
+Training time: 256.9881398677826 Hour: 0 Minute: 4 Second: 16
+Epoch: 3  Best acc: tensor(63.8500, device='cuda:1') Test acc: tensor(63.8500, device='cuda:1')
+Training time: 389.11233043670654 Hour: 0 Minute: 6 Second: 29
+Epoch: 4  Best acc: tensor(71.5700, device='cuda:1') Test acc: tensor(71.5700, device='cuda:1')
+Training time: 522.0749237537384 Hour: 0 Minute: 8 Second: 42
+Epoch: 5  Best acc: tensor(77.7400, device='cuda:1') Test acc: tensor(77.7400, device='cuda:1')
+Training time: 654.5267763137817 Hour: 0 Minute: 10 Second: 54
+Epoch: 6  Best acc: tensor(78.5600, device='cuda:1') Test acc: tensor(78.5600, device='cuda:1')
+Training time: 787.1054995059967 Hour: 0 Minute: 13 Second: 7
+Epoch: 7  Best acc: tensor(79.6500, device='cuda:1') Test acc: tensor(79.6500, device='cuda:1')
+Training time: 918.8820078372955 Hour: 0 Minute: 15 Second: 18
+Epoch: 8  Best acc: tensor(79.6600, device='cuda:1') Test acc: tensor(79.6600, device='cuda:1')
+Training time: 1050.637520313263 Hour: 0 Minute: 17 Second: 30
+Epoch: 9  Best acc: tensor(80.2800, device='cuda:1') Test acc: tensor(80.2800, device='cuda:1')
+Training time: 1183.1024661064148 Hour: 0 Minute: 19 Second: 43
+Epoch: 10  Best acc: tensor(80.8900, device='cuda:1') Test acc: tensor(80.8900, device='cuda:1')
+Training time: 1316.0184454917908 Hour: 0 Minute: 21 Second: 56
+Epoch: 11  Best acc: tensor(81.0700, device='cuda:1') Test acc: tensor(81.0700, device='cuda:1')
+Training time: 1448.976981163025 Hour: 0 Minute: 24 Second: 8
+Epoch: 12  Best acc: tensor(81.2100, device='cuda:1') Test acc: tensor(81.2100, device='cuda:1')
+Training time: 1581.8395891189575 Hour: 0 Minute: 26 Second: 21
+Epoch: 13  Best acc: tensor(81.2800, device='cuda:1') Test acc: tensor(81.2800, device='cuda:1')
+Training time: 1713.7356481552124 Hour: 0 Minute: 28 Second: 33
+Epoch: 14  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.3900, device='cuda:1')
+Training time: 1846.583547115326 Hour: 0 Minute: 30 Second: 46
+Epoch: 15  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.3300, device='cuda:1')
+Training time: 1979.165078163147 Hour: 0 Minute: 32 Second: 59
+Epoch: 16  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.3300, device='cuda:1')
+Training time: 2111.28511762619 Hour: 0 Minute: 35 Second: 11
+Epoch: 17  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.3600, device='cuda:1')
+Training time: 2243.673672914505 Hour: 0 Minute: 37 Second: 23
+Epoch: 18  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.3200, device='cuda:1')
+Training time: 2376.126206636429 Hour: 0 Minute: 39 Second: 36
+Epoch: 19  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.2200, device='cuda:1')
+Training time: 2509.0148894786835 Hour: 0 Minute: 41 Second: 49
+Epoch: 20  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.2300, device='cuda:1')
+Training time: 2641.5291109085083 Hour: 0 Minute: 44 Second: 1
+Epoch: 21  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.3200, device='cuda:1')
+Training time: 2773.6619865894318 Hour: 0 Minute: 46 Second: 13
+Epoch: 22  Best acc: tensor(81.3900, device='cuda:1') Test acc: tensor(81.2700, device='cuda:1')
+Training time: 2906.420836687088 Hour: 0 Minute: 48 Second: 26
+Epoch: 23  Best acc: tensor(81.4400, device='cuda:1') Test acc: tensor(81.4400, device='cuda:1')
+Training time: 3039.088299036026 Hour: 0 Minute: 50 Second: 39
+Epoch: 24  Best acc: tensor(81.4400, device='cuda:1') Test acc: tensor(81.4200, device='cuda:1')
+Training time: 3171.3779394626617 Hour: 0 Minute: 52 Second: 51
+Epoch: 25  Best acc: tensor(81.4400, device='cuda:1') Test acc: tensor(81.1600, device='cuda:1')
+Training time: 3304.426951646805 Hour: 0 Minute: 55 Second: 4
+Epoch: 26  Best acc: tensor(81.4400, device='cuda:1') Test acc: tensor(81.4000, device='cuda:1')
+Training time: 3437.621656894684 Hour: 0 Minute: 57 Second: 17
+Epoch: 27  Best acc: tensor(81.4400, device='cuda:1') Test acc: tensor(81.4100, device='cuda:1')
+Training time: 3570.154935836792 Hour: 0 Minute: 59 Second: 30
+Epoch: 28  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.4800, device='cuda:1')
+Training time: 3703.790772676468 Hour: 1 Minute: 1 Second: 43
+Epoch: 29  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3400, device='cuda:1')
+Training time: 3835.911569595337 Hour: 1 Minute: 3 Second: 55
+Epoch: 30  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.4400, device='cuda:1')
+Training time: 3968.4654200077057 Hour: 1 Minute: 6 Second: 8
+Epoch: 31  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3100, device='cuda:1')
+Training time: 4101.142657756805 Hour: 1 Minute: 8 Second: 21
+Epoch: 32  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.2000, device='cuda:1')
+Training time: 4233.279267549515 Hour: 1 Minute: 10 Second: 33
+Epoch: 33  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3200, device='cuda:1')
+Training time: 4366.009649753571 Hour: 1 Minute: 12 Second: 46
+Epoch: 34  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3800, device='cuda:1')
+Training time: 4498.562260627747 Hour: 1 Minute: 14 Second: 58
+Epoch: 35  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.4800, device='cuda:1')
+Training time: 4630.856337308884 Hour: 1 Minute: 17 Second: 10
+Epoch: 36  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.2300, device='cuda:1')
+Training time: 4764.717298984528 Hour: 1 Minute: 19 Second: 24
+Epoch: 37  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3500, device='cuda:1')
+Training time: 4897.7456138134 Hour: 1 Minute: 21 Second: 37
+Epoch: 38  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.1800, device='cuda:1')
+Training time: 5030.677682876587 Hour: 1 Minute: 23 Second: 50
+Epoch: 39  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3300, device='cuda:1')
+Training time: 5162.886417388916 Hour: 1 Minute: 26 Second: 2
+Epoch: 40  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3400, device='cuda:1')
+Training time: 5295.024390220642 Hour: 1 Minute: 28 Second: 15
+Epoch: 41  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.4500, device='cuda:1')
+Training time: 5427.002630472183 Hour: 1 Minute: 30 Second: 27
+Epoch: 42  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.2700, device='cuda:1')
+Training time: 5559.125637292862 Hour: 1 Minute: 32 Second: 39
+Epoch: 43  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.4400, device='cuda:1')
+Training time: 5691.49769949913 Hour: 1 Minute: 34 Second: 51
+Epoch: 44  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3500, device='cuda:1')
+Training time: 5823.2637155056 Hour: 1 Minute: 37 Second: 3
+Epoch: 45  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3100, device='cuda:1')
+Training time: 5955.708820104599 Hour: 1 Minute: 39 Second: 15
+Epoch: 46  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.2600, device='cuda:1')
+Training time: 6088.32932138443 Hour: 1 Minute: 41 Second: 28
+Epoch: 47  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.2900, device='cuda:1')
+Training time: 6221.359470844269 Hour: 1 Minute: 43 Second: 41
+Epoch: 48  Best acc: tensor(81.4800, device='cuda:1') Test acc: tensor(81.3400, device='cuda:1')
+Training time: 6353.603698730469 Hour: 1 Minute: 45 Second: 53
+Epoch: 49  Best acc: tensor(81.4900, device='cuda:1') Test acc: tensor(81.4900, device='cuda:1')
+Training time: 6486.311695098877 Hour: 1 Minute: 48 Second: 6
+Epoch: 50  Best acc: tensor(81.5000, device='cuda:1') Test acc: tensor(81.5000, device='cuda:1')
+Training time: 6618.615187168121 Hour: 1 Minute: 50 Second: 18
